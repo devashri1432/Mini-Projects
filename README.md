@@ -7,4 +7,4 @@ The tasks involve predictions for:
 2. Boston House Price
 3. Movie Classes
 
-It also consists of Exploratory Data Analysis on the datasets, further identifying the best model suitable for the data and tuning the parameters of the model to get good results.
+It also consists of detailed Exploratory Data Analysis (EDA) performed on the datasets, further identifying the best model suitable for the data and tuning the parameters of the model to get good results.
